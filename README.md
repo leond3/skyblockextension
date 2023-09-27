@@ -1,2 +1,2 @@
-# Skyblock Extension Data
-I don't know why you are here, but welcome :/
+# Notice
+This repository contains "random files" used by some very old projects of mine.
