@@ -90,5 +90,5 @@
     "B86D4B2EA77B613408C568DE6AF1C2AF9082C53BF4AB8F8097F46B77B7E5990C",
     "BA6ED45905B45E0AAA977E816A398913CB7E4A2A39DE0B507434E25EFC53DEF9"
   ],
-    "chat": "https://mod-backend.onrender.com/elpis/websocket/chat"
+    "chat": "ws://mod-backend.onrender.com/api/elpis/websocket/chat"
 }
