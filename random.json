@@ -100,5 +100,6 @@
     "BA6ED45905B45E0AAA977E816A398913CB7E4A2A39DE0B507434E25EFC53DEF9"
   ],
     "chat": "wss://mod-backend.onrender.com/api/elpis/websocket/chat",
-    "ping": "wss://mod-backend.onrender.com/api/ping"
+    "ping": "wss://mod-backend.onrender.com/api/ping",
+    "secret2": "tf4y3gn832gxe673g2qxc"
 }
